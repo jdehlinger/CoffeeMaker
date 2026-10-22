@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
  * Starts the console UI for the CoffeeMaker
  * 
  * @author Josh
- * @version $Revision: 1.0 $
+ * @version $Revision: 1.1 $
  */
 public class Main {
 	private static CoffeeMaker coffeeMaker;
