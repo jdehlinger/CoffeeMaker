@@ -83,7 +83,7 @@ public class Inventory {
         if (milk >= 0) {
             Inventory.milk = milk;
         } else {
-            Inventory.milk = 10;
+            Inventory.milk = 0;
         }
     }
 
