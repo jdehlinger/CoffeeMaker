@@ -50,6 +50,7 @@
                     <targetClasses>
                         <param>edu.towson.cis.cosc442.project4.coffeemaker.*</param>
                     </targetClasses>
+                    <mutationThreshold>80</mutationThreshold>
                 </configuration>
             </plugin>
         </plugins>
